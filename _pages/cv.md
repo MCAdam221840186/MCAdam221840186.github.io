@@ -16,20 +16,20 @@ Education
 
 Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* April 2025 - : Theoretical Computer Science 
+  * Dimension reduction for Euclidean matching problem (bipartite or non-bipartie). 
+  * Supervisor: Professor LingXiao Huang
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2024 - March 2025: Theoretical Computer Science / Computational Learning Theory
+  * Weak coreset construction via uniform sampling for clustering problems.
+  * Duties includes: Generalizing existing proof techniques from k-median to (k, z)-clustering with arbitrary power z.
+  * Co-authored a paper based on this work, currently under review.
+  * Supervisor: Professor LingXiao Huang
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2023 - May 2024: Mobile Security
+  * Privacy leakage in a class of Android applications using reverse engineering techniques.
+  * Duties included: Learning Android reverse engineering techniques and applying them to privacy analysis.
+  * Supervisor: Professor Jingyu Hua
   
 Skills
 ======
