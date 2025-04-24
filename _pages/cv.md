@@ -50,9 +50,9 @@ redirect_from:
 ## Awards
 
 * **National Scholarship for Undergraduates**, 2024
-* **ICPC regional (Shanghai) 🥉**, 2024
-* **ICPC regional (Jinan) 🥉**, 2023
-* **CCPC regional (Harbin) 🥉**, 2023
+* **ICPC Regional (Shanghai) 🥉**, 2024
+* **ICPC Regional (Jinan) 🥉**, 2023
+* **CCPC Regional (Harbin) 🥉**, 2023
 * **Outstanding Student of Nanjing University**, 2023
 * **Outstanding Volunteer of Nanjing University**, 2023
 
