@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from Nanjing University.
+I'm currently a third year undergraduate student at [School of Computer Science](https://cs.nju.edu.cn/mainm.htm) in [Nanjing University](https://www.nju.edu.cn/).
 
-I am fortunate to be advised by LingXiao Huang.
+I am now a research intern in [Theory Group](https://tcs.nju.edu.cn/) and I am fortunate to be advised by [Prof.LingXiao Huang](https://sites.google.com/site/lingxiaohuang1990).
 
 I am broadly interested in theoretical computer science, with a particular emphasis on leveraging data compression techniques in the context of machine learning and combinatorial optimization problems.
