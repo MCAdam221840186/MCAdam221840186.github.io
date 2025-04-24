@@ -14,7 +14,7 @@ redirect_from:
     School of Computer Science
   </a>
   in Nanjing University. Now I am a research intern in 
-  <a href="https://tcs.nju.edu.cn/" sytle="color: #8A2BE2; text-decoration: none;">
+  <a href="https://tcs.nju.edu.cn/" style="color: #8A2BE2; text-decoration: none;">
     Theory Group
   </a>
   and fortunate to be advised by Prof.
