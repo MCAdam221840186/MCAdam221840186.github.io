@@ -20,9 +20,8 @@ redirect_from:
 
 * **B.S. in School of Computer Science, Nanjing University**  
   *September 2022 – June 2026 (expected)*
-  - GPA: 4.54/5.0 (Top 5%)
-  - Selected Courses:
-
+  * GPA: 4.54/5.0 (Top 5%)
+  * Selected Courses:
     Calculus I (93), Calculus II (94), Linear Algebra (93), Discrete Mathematics (91),  
     Probability Theory and Mathematical Statistics (97), Data Structures (95), Algorithm Design & Analysis (92),  
     Elements of Cryptography (96), Formal Languages and Automata (93),  
