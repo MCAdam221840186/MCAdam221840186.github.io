@@ -20,12 +20,12 @@ redirect_from:
 
 * **B.S. in School of Computer Science, Nanjing University**  
   *September 2022 – June 2026 (expected)*
-  * **GPA:** 4.54/5.0 (Top 5%)
+  * **GPA:** $4.54/5.0$ (Top 5%)
   * **Selected Courses:**
-    Calculus I (93), Calculus II (94), Linear Algebra (93), Discrete Mathematics (91),  
-    Probability Theory and Mathematical Statistics (97), Data Structures (95), Algorithm Design & Analysis (92),  
-    Elements of Cryptography (96), Formal Languages and Automata (93),  
-    Graph Theory and Algorithms (90), Introduction to Machine Learning (93),  
+    Calculus I (93), Calculus II (94), Linear Algebra (93), Discrete Mathematics (91),
+    Probability Theory and Mathematical Statistics (97), Data Structures (95), Algorithm Design & Analysis (92),
+    Elements of Cryptography (96), Formal Languages and Automata (93),
+    Graph Theory and Algorithms (90), Introduction to Machine Learning (93),
     Combinatorics (91), Computational Complexity (96), Advanced Algorithms (95)  
   
 
@@ -46,6 +46,15 @@ redirect_from:
   * Privacy leakage in a class of Android applications using reverse engineering techniques.  
   * Duties included: Learning Android reverse engineering techniques and applying them to privacy analysis.  
   * Supervisor: Professor Jingyu Hua
+
+## Awards
+
+* **National scholarship for Undergraduates**, 2024
+* **ICPC regional (Shanghai) 🥉**, 2024
+* **ICPC regional (Jinan) 🥉**, 2023
+* **CCPC regional (Harbin) 🥉**, 2023
+* **Outstanding Student of Nanjing University**, 2023
+* **Outstanding Volunteer of Nanjing University**, 2023
 
 ## Skills
 
