@@ -22,10 +22,10 @@ repository               : "mcadam221840186/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Bear.jpg"
   name             : "Duanrui Chen(陈端锐)"
   pronouns         : # example: "she/her"  
-  bio              : "👨‍💻 CS Undergrad @ NJU | 🎵 Research Intern in Theory Group "
+  bio              : "👨‍💻 CS Undergrad @ NJU |  Research Intern in Theory Group "
   location         : "Nanjing"
   employer         : "Nanjing University"
   uri              : # URL
