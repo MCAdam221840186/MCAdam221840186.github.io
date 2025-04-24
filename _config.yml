@@ -23,10 +23,10 @@ repository               : "mcadam221840186/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Duanrui Chen(陈端锐)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "👨‍💻 CS Undergrad @ NJU | 🎵 Research Intern in Theory Group "
+  location         : "Nanjing"
   employer         : "Nanjing University"
   uri              : # URL
   email            : "221840186@smail.nju.edu.cn" 
