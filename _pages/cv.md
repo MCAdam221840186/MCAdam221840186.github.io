@@ -1,3 +1,9 @@
+<style>
+.archive {
+  font-family: 'Georgia', serif;
+}
+</style>
+
 ---
 layout: archive
 title: "CV"
