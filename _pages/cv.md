@@ -16,8 +16,6 @@ redirect_from:
 * **B.S. in School of Computer Science, Nanjing University**  
   *September 2022 – June 2026 (expected)*
 
-<br>
-
 ## Research Experience
 
 * **April 2025 – Present: Theoretical Computer Science**  
@@ -35,23 +33,17 @@ redirect_from:
   * Duties included: Learning Android reverse engineering techniques and applying them to privacy analysis.  
   * Supervisor: Professor Jingyu Hua
 
-<br>
-
 ## Skills
 
 * **Programming Languages:** C/C++, Python, Java  
 * **Tools:** Git, Markdown, LaTeX  
 * **Languages:** English, Mandarin, Cantonese
 
-<br>
-
 ## Publications
 
 <ul>{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
-
-<br>
 
 ## Service
 
