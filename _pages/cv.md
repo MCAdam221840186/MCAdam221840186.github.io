@@ -36,7 +36,7 @@ redirect_from:
   * Dimension reduction for Euclidean matching problem (bipartite or non-bipartite).  
   * Supervisor: Professor LingXiao Huang
 
-* **July 2024 – March 2025: Theoretical Computer Science / Computational Learning Theory**  
+* **July 2024 – March 2025: Theoretical Computer Science**  
   * Weak coreset construction via uniform sampling for clustering problems.  
   * Duties included: Generalizing existing proof techniques from k-median to (k, z)-clustering with arbitrary power z.  
   * Co-authored a paper based on this work, currently under review.  
