@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<div style="font-family: 'Georgia', serif;">
+
 
 ## Education
 
@@ -57,4 +57,3 @@ redirect_from:
 
 <!-- Add your service experiences here -->
 
-</div>
