@@ -17,9 +17,9 @@ redirect_from:
   <a href="https://tcs.nju.edu.cn/" style="color: #8A2BE2; text-decoration: none;">
     Theory Group
   </a>
-  and fortunate to be advised by 
+  and fortunate to be advised by Prof. 
   <a href="https://sites.google.com/site/lingxiaohuang1990" style="color: #8A2BE2; text-decoration: none;">
-  Prof.LingXiao Huang
+    LingXiao Huang
   </a>
   .
 
