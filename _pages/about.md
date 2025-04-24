@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About me 🤗"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 <p style="font-size: 24px; font-family: 'Georgia', serif;">
 
-  I'm currently a third year undergraduate student at 
+  Hi~I'm currently a third year undergraduate student at 
   <a href="https://cs.nju.edu.cn/mainm.htm" style="color: #8A2BE2; text-decoration: none;">
     School of Computer Science
   </a>
