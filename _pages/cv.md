@@ -49,7 +49,7 @@ redirect_from:
 
 ## Awards
 
-* **National scholarship for Undergraduates**, 2024
+* **National Scholarship for Undergraduates**, 2024
 * **ICPC regional (Shanghai) 🥉**, 2024
 * **ICPC regional (Jinan) 🥉**, 2023
 * **CCPC regional (Harbin) 🥉**, 2023
