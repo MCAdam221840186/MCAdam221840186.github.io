@@ -23,15 +23,11 @@ redirect_from:
   - GPA: 4.54/5.0 (Top 5%)
   - Selected Courses:
 
-    Calculus I (93), Calculus II (94), Linear Algebra (93), Discrete Mathematics (91),
-
-    Probability Theory and Mathematical Statistics (97), Data Structures (95), Algorithm Design & Analysis (92),
-
-    Elements of Cryptography (96), Formal Languages and Automata (93),
-
-    Graph Theory and Algorithms (90), Introduction to Machine Learning (93),
-
-    Combinatorics (91), Computational Complexity (96), Advanced Algorithms (95) 
+    Calculus I (93), Calculus II (94), Linear Algebra (93), Discrete Mathematics (91),  
+    Probability Theory and Mathematical Statistics (97), Data Structures (95), Algorithm Design & Analysis (92),  
+    Elements of Cryptography (96), Formal Languages and Automata (93),  
+    Graph Theory and Algorithms (90), Introduction to Machine Learning (93),  
+    Combinatorics (91), Computational Complexity (96), Advanced Algorithms (95)  
   
 
 
