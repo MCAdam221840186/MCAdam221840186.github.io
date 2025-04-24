@@ -1,9 +1,3 @@
-<style>
-.archive {
-  font-family: 'Georgia', serif;
-}
-</style>
-
 ---
 layout: archive
 title: "CV"
@@ -12,6 +6,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+<style>
+.archive {
+  font-family: 'Georgia', serif;
+}
+</style>
 
 {% include base_path %}
 
