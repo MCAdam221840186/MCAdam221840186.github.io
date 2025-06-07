@@ -13,12 +13,6 @@ redirect_from:
 }
 </style>
 
-{% include base_path %}
-
-
-
-
-
 <style>
 .header {
   text-align: center;
@@ -27,7 +21,6 @@ redirect_from:
 }
 </style>
 
-</style>
 
 <div class="header">
   <h3>Duanrui Chen（陈端锐）</h3>
@@ -66,12 +59,10 @@ redirect_from:
   justify-content: space-between;
   font-weight: bold;
   font-family: 'Georgia', serif;
-  font-size: 14px;
   margin-top: 10px;
 }
 .research-body {
   font-family: 'Georgia', serif;
-  font-size: 14px;
   margin-bottom: 10px;
 }
 </style>
@@ -153,7 +144,6 @@ My research interests span various approaches in theoretical computer science, w
   display: flex;
   justify-content: space-between;
   font-family: 'Georgia', serif;
-  font-size: 14px;
   margin-bottom: 8px;
 }
 </style>
